@@ -1,6 +1,6 @@
 # Curhatin (Next.js 15, App Router, Server Actions, Firestore)
 
-Flow dan fitur menyerupai **web-keluh-kesah**, namun dengan UI/UX yang ditingkatkan memakai **Tailwind + shadcn/ui**. Full-stack monolith (server actions).
+Kamu bisa curhat sepuasnya disini, lanturkan kata-kata mutiara biar pikiran makin ringan (tapi ingat semua ketikan kamu bersifat publik jadi harus bijak). web ini dibuat menggunakan **NextJS 15 + Tailwind + shadcn/ui**. Full-stack monolith (server actions).
 
 ## ✨ Stack
 - Next.js 15 (App Router) + Server Actions
