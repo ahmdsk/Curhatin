@@ -14,7 +14,7 @@ export default function Nav() {
     <nav className="sticky top-0 z-50 w-full backdrop-blur supports-[backdrop-filter]:bg-background/70 border-b">
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="font-semibold text-lg tracking-tight">
-          KeluhKesah<span className="text-primary">+</span>
+          Curhatin<span className="text-primary">+</span>
         </Link>
         <div className="flex items-center gap-3">
           <Link href="/keluh-kesah">
