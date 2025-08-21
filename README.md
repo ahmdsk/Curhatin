@@ -1,4 +1,4 @@
-# KeluhKesah+ (Next.js 15, App Router, Server Actions, Firestore)
+# Curhatin (Next.js 15, App Router, Server Actions, Firestore)
 
 Flow dan fitur menyerupai **web-keluh-kesah**, namun dengan UI/UX yang ditingkatkan memakai **Tailwind + shadcn/ui**. Full-stack monolith (server actions).
 
