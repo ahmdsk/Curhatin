@@ -20,7 +20,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <Toaster position="top-center" />
           <footer className="border-t">
             <div className="container py-8 text-sm text-muted-foreground">
-              © {new Date().getFullYear()} KeluhKesah+. Dibuat dengan Next.js 15, Firestore, dan shadcn/ui.
+              © {new Date().getFullYear()} KeluhKesah+. All rights reserved. Made with ❤️ by{" "}
+              <a
+                href="https://github.com/ahmdsk"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                ahmdsk
+              </a>
             </div>
           </footer>
         </ThemeProvider>
